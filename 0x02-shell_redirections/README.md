@@ -1,1 +1,1 @@
-Display the content of the /etc/passwd file.
+a shell script that creates a file
